@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1bad1b6c41d408a4eb90bce6cf09efd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imageUI: {instanceID: 0}
+  - numberUI: {instanceID: 0}
+  - leftArrow: {fileID: 21300000, guid: 2307a01c5afa95a4f8f2ab631fb07a6b, type: 3}
+  - rightArrow: {fileID: 21300000, guid: 0bdd73eafaf17e546a62d2daf9cec80c, type: 3}
+  - forwardArrow: {fileID: 21300000, guid: d2821bb6fa6e5fd418a3d37069b2bb9a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
